@@ -5,4 +5,4 @@ Both players take turn picking rocks until there are none left. The last player 
 Note that each player must pick at least 1 rock.
 nimm.py is a 2 player game while nimm_ai.py is against the computer where the computer always starts and wins.
 
-This program was made during code in place 2020 organized by Harvard University. :)
+This program was made during code in place 2020.
